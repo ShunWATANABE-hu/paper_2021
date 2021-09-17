@@ -1,8 +1,17 @@
 # 付録の見方  
 
-**Pythonのバージョン情報**
+**Pythonのバージョン情報**  
 使用したPythonのバージョン：3.7  
- 
+使用したライブラリの一覧：  
+・csv  
+・datetime  
+・math  
+・matplotlib  
+・numpy  
+・pandas 
+・seaborn  
+・time  
+
 **付録A図**  
 ・本文では簡潔に紹介した、ロケット課題の学習精度の比較に関するグラフを掲載  
 
