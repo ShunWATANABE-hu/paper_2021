@@ -8,7 +8,7 @@
 ・math  
 ・matplotlib  
 ・numpy  
-・pandas 
+・pandas  
 ・seaborn  
 ・time  
 
